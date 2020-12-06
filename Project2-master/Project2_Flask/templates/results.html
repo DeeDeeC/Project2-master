@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Results</title>
+</head>
+<body>
+
+    <center>
+
+        <h2>Results Page</h2>
+
+        <p>
+            Hello there, {{ first_name }} {{ last_name }}.
+        </p>
+
+        <h3>
+            Authors
+        </h3>
+
+        <p>
+           These are the results of the author you picked
+        </p>
+
+         {{ book_title }}
+
+
+        <script>
+        function goBack() {window.history.back()}
+        </script>
+
+        <p>
+            If you want results for a new author then please hit the "Back" button below.
+        </p>
+
+        <p>
+            <button onclick="goBack()">Go Back</button>
+        </p>
+    </center>
+
+</body>
+</html>

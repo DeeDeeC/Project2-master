@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+    <link rel=":stkyesheet" href="static/project2.css">
+</head>
+<body>
+    <form actions="" method="POST" name="response">
+        <center>
+            {{form.csrf_token}}
+            {{ form.hidden_tag() }}
+
+            <h2>Search Page</h2>
+
+            <p>
+                First Name:
+                {{ form.first_name() }}
+            </p>
+
+            <p>
+                Last Name:
+                {{ form.last_name() }}
+            </p>
+
+            <p>
+                Pick a Author:
+                {{ form.author() }}
+            </p>
+
+            <p>
+                <input type="submit" value="submit">
+            </p>
+
+        </center>
+    </form>
+</body>
+</html>

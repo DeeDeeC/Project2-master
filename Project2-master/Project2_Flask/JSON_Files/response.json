@@ -1,0 +1,72 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 5,
+  "results": [
+    {
+      "url": "http://www.nytimes.com/1985/10/20/books/humbert-humbert-san.html",
+      "publication_dt": "1985-10-20",
+      "byline": "MASAO MIYOSHI",
+      "book_title": "Some Prefer Nettles",
+      "book_author": "Junichiro Tanizaki",
+      "summary": "",
+      "uuid": "00000000-0000-0000-0000-000000000000",
+      "uri": "nyt://book/00000000-0000-0000-0000-000000000000",
+      "isbn13": [
+        "9780679752691"
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/1994/02/13/books/fatal-attractions.html",
+      "publication_dt": "1994-02-13",
+      "byline": "IAN BURUMA",
+      "book_title": "Reed Cutter and Captain Shigemoto's Mother : Two Novellas",
+      "book_author": "Junichiro Tanizaki",
+      "summary": "",
+      "uuid": "00000000-0000-0000-0000-000000000000",
+      "uri": "nyt://book/00000000-0000-0000-0000-000000000000",
+      "isbn13": [
+        "9780679757917"
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/1982/07/18/books/shadows-and-obsessions.html",
+      "publication_dt": "1982-07-18",
+      "byline": "EDMUND WHITE",
+      "book_title": "The Secret History of the Lord of Musashi and Arrowroot: Two Novellas",
+      "book_author": "Junichiro Tanizaki",
+      "summary": "",
+      "uuid": "00000000-0000-0000-0000-000000000000",
+      "uri": "nyt://book/00000000-0000-0000-0000-000000000000",
+      "isbn13": [
+        "9780394524542"
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/1988/09/18/books/pampered-in-tokyo.html",
+      "publication_dt": "1988-09-18",
+      "byline": "MARY JO SALTER",
+      "book_title": "Childhood Years: A Memoir",
+      "book_author": "Junichiro Tanizaki",
+      "summary": "",
+      "uuid": "00000000-0000-0000-0000-000000000000",
+      "uri": "nyt://book/00000000-0000-0000-0000-000000000000",
+      "isbn13": [
+        "9780870118630"
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/02/15/books/review/junichiro-tanizaki-in-black-and-white.html",
+      "publication_dt": "2018-02-15",
+      "byline": "MIN JIN LEE",
+      "book_title": "In Black and White",
+      "book_author": "Junichiro Tanizaki",
+      "summary": "Junichiro Tanizaki\u2019s early novel \u201cIn Black and White\u201d uses nested murder plots to explore the guilt and responsibilities of the writing life.",
+      "uuid": "00000000-0000-0000-0000-000000000000",
+      "uri": "nyt://book/00000000-0000-0000-0000-000000000000",
+      "isbn13": [
+        "9780231185189"
+      ]
+    }
+  ]
+}
